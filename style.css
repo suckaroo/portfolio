@@ -1,3 +1,31 @@
 h1{
-    color:red
+    color:#FF5881
 }
+body {
+    font-family: 'Chilanka', cursive;
+    margin: 0;
+  }
+  
+  
+  ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background: #7959DF;
+  }
+  
+  li {
+    margin: 24px 0;
+  }
+  
+  li a {
+    padding: 24px;
+    text-decoration: none;
+    color: hotpink;
+    background: black;
+  }
+  
+  li a:hover {
+    background:darkslategrey;
+  }

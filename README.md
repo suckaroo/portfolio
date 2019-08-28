@@ -1,1 +1,1 @@
-My cool projects and stuff
+My cool projects and stufft
